@@ -1,0 +1,42 @@
+html {
+    font-family: "Roboto Mono", monospace;
+}
+
+
+table, th, td {
+    border: 3px double #553838;  
+}
+
+input {
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #cc1616;
+    box-sizing: border-box;
+}
+
+table th {
+    padding: 12px;
+    background-color: rgb(233, 30, 30);
+}
+
+table td {
+    padding: 6px;
+    margin: 12px;
+}
+
+
+table {
+    font-size: large;
+    text-align: center;
+}
+
+#studentForm {
+width: 100%;
+}
+
+#studentTable {
+    border-radius: 12px;
+    width: 100%;
+}
+
